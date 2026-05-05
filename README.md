@@ -1,7 +1,7 @@
 👨‍💻 关于我
 - 网名 Sinkendlessly
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=FFA500&width=700&height=220&lines=👯 普通二本院校 | 计算机专业在读;🔭 主攻Java后端、微服务与高并发系统;🌱 自学Java开发、Python数据分析、人工智能;💬 熟练Java/Spring/Redis/MySQL调优;📫 邮箱：yu1104411801@gmail.com;⚡ 爱好：写技术博客+钻研技术+看动漫" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=38BDF8&width=700&height=220&lines=👯 普通二本院校 | 计算机专业在读;🔭 主攻Java后端、微服务与高并发系统;🌱 自学Java开发、Python数据分析、人工智能;💬 熟练Java/Spring/Redis/MySQL调优;📫 邮箱：yu1104411801@gmail.com;⚡ 爱好：写技术博客+钻研技术+看动漫" />
 </p>
 
 <p align="center">
