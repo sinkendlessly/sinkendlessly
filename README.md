@@ -6,7 +6,7 @@
 - 📫 邮箱：yu1104411801@gmail.com
 - ⚡ 兴趣：写技术博客、折腾技术点，看动漫哈哈  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mewtwo656/static/main/goku2.gif" width="700"/>
+  <img src="dragon ball z GIF.gif" width="700"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
