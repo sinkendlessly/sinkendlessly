@@ -6,7 +6,7 @@
 - 💬 熟练掌握 Java 基础、Spring 全家桶、Redis 缓存应用、MySQL 数据库优化
 - 📫 邮箱：yu1104411801@gmail.com
 - ⚡ 兴趣：深耕技术栈、撰写技术博客、主动钻研新技术，业余喜欢看动漫放松
-🎨 个人作品：纯前端博客展示页面（HTML/CSS/JS）
+- 🎨 个人作品：纯前端博客展示页面（HTML/CSS/JS）
 [https://github.com/你的用户名/blog-demo](https://www.sinkendlessly.fun/)
 <p align="center">
 <img src="自在极意.gif" width="700"/>>
