@@ -4,7 +4,7 @@
 - 🌱 学习 java开发，python分析，人工智能
 - 💬 擅长 Spring Cloud、Redis 缓存、MySQL 优化
 - 📫 邮箱：yu1104411801@gmail.com
-- ⚡ 兴趣：写技术博客、折腾服务器
+- ⚡ 兴趣：写技术博客、折腾技术点
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF69B4&width=500&lines=Hi+there+👋,+I'm+张三;Full+Stack+Engineer;Open+Source+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
