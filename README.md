@@ -17,8 +17,3 @@
     <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,vue,react,mysql,redis,git,github,docker,linux" />
   </a>
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,js,vue,react,mysql,redis,git,github" />
-  </a>
-</p>
