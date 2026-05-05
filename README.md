@@ -1,11 +1,8 @@
 👨‍💻 关于我
 - 网名 Sinkendlessly
-- 👯 就读普通二本院校，计算机专业在读本科生
-- 🔭 深耕Java 后端开发，主攻微服务架构、高并发系统设计方向
-- 🌱 持续学习 Java 后端开发、Python 数据分析、人工智能相关基础知识
-- 💬 熟练掌握 Java 基础、Spring 全家桶、Redis 缓存应用、MySQL 数据库优化
-- 📫 邮箱：yu1104411801@gmail.com
-- ⚡ 兴趣：深耕技术栈、撰写技术博客、主动钻研新技术，业余喜欢看动漫放松
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=FFA500&width=700&height=220&lines=👯 普通二本院校 | 计算机专业在读;🔭 主攻Java后端、微服务与高并发系统;🌱 自学Java开发、Python数据分析、人工智能;💬 熟练Java/Spring/Redis/MySQL调优;📫 邮箱：yu1104411801@gmail.com;⚡ 爱好：写技术博客+钻研技术+看动漫" />
+</p>
 
 <p align="center">
 <img src="自在极意.gif" width="700"/>>
