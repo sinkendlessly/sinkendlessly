@@ -17,12 +17,6 @@
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&hide_border=true" alt="stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true" alt="streak" width="45%" />
-</p>
-
-
 ### 🛠 技术栈
 <p align="center">
   <a href="https://skillicons.dev">
