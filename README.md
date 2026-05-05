@@ -6,7 +6,12 @@
 - 📫 邮箱：yu1104411801@gmail.com
 - ⚡ 兴趣：写技术博客、折腾技术点，看动漫哈哈  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFA500&width=500&lines=Hi+there+👋,+I'm+你的名字;Super+Saiyan+Level+Developer;Dragon+Ball+Obsessed;Coding+with+Kamehameha+Power" alt="Typing SVG" />
+  <img src="https://i.giphy.com/media/l0HlBO7roi4IReaVPE/giphy.gif" width="40" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 <p align="center">
