@@ -2,7 +2,7 @@
 - 👯 学校 普通二本院校 计算机学生
 - 🔭 专注 Java 后端、微服务、高并发系统
 - 🌱 学习 java开发，python分析，人工智能
-- 💬 擅长 Spring Cloud、Redis 缓存、MySQL 优化
+- 💬 擅长 Java、Spring、Redis 缓存、MySQL 优化
 - 📫 邮箱：yu1104411801@gmail.com
 - ⚡ 兴趣：写技术博客、折腾技术点，看动漫哈哈
 
