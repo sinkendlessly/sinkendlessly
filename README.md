@@ -7,7 +7,7 @@
 - ⚡ 兴趣：写技术博客、折腾技术点，看动漫哈哈
 
 <p align="center">
-<img src="dragon ball z GIF.gif" width="700"/>>
+<img src="自在极意.gif" width="700"/>>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
