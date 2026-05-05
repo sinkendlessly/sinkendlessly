@@ -22,9 +22,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=你的用户名&theme=radical&hide_border=true" alt="streak" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical&hide_border=true" alt="top langs" />
-</p>
 
 ### 🛠 技术栈
 <p align="center">
